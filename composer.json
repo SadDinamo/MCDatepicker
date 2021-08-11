@@ -1,14 +1,13 @@
 {
     "name": "saddinamo/mc-datepicker",
     "description": "MCDatepicker JS library forked from https://github.com/mikecoj/MCDatepicker",
-    "type": "JS",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
             "saddinamo\\MCDatepicker\\": "src/"
         }
     },
-    "minimum-stability": "stable",
     "require": {
         "yiisoft/yii2": "2.*"
     },
