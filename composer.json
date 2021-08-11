@@ -8,7 +8,7 @@
             "saddinamo\\MCDatepicker\\": "src/"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "2.*"
     },
